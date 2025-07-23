@@ -13,5 +13,6 @@
     <color name="title">#846340</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">TestCoffe</string>
+    <string name="mapkit_api_key" translatable="false">38532091-dd64-4672-a5ab-d73933ebf181</string>
     <style name="Theme.TestCoffe" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

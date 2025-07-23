@@ -15,7 +15,10 @@ object LocationMapper {
 
         return CafeItems(
             name = this.name,
-            distance = distance
+            distance = distance,
+            id = this.id,
+            latitude = this.point.latitude,
+            longitude = this.point.longitude
         )
     }
     fun calculateDistance(userLocation: Point, point2: Point): Double {

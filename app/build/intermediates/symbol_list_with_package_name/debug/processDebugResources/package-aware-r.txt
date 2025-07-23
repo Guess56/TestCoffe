@@ -226,14 +226,17 @@ attr maxButtonHeight
 attr measureWithLargestChild
 attr menu
 attr mimeType
+attr movable
 attr multiChoiceItemLayout
 attr navGraph
 attr navigationContentDescription
 attr navigationIcon
 attr navigationMode
 attr nestedScrollViewStyle
+attr noninteractive
 attr nullable
 attr numericModifiers
+attr offscreenBufferEnabled
 attr overlapAnchor
 attr paddingBottomNoButtons
 attr paddingEnd
@@ -260,6 +263,7 @@ attr radioButtonStyle
 attr ratingBarStyle
 attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
+attr renderDebug
 attr restoreState
 attr route
 attr scopeUris
@@ -338,6 +342,7 @@ attr ttcIndex
 attr uri
 attr viewInflaterClass
 attr voiceIcon
+attr vulkanPreferred
 attr windowActionBar
 attr windowActionBarOverlay
 attr windowActionModeOverlay
@@ -350,6 +355,10 @@ attr windowMinWidthMinor
 attr windowNoTitle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
+bool enable_system_alarm_service_default
+bool enable_system_foreground_service_default
+bool enable_system_job_service_default
+bool workmanager_test_configuration
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -663,6 +672,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable arrow
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -671,6 +681,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable clicked_arrow
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -690,8 +701,13 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable default_line
+drawable entry
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable house_marker_expandable
+drawable house_marker_left
+drawable house_marker_right
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -700,6 +716,14 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_marker
+drawable interior
+drawable loader
+drawable mrc_arrow
+drawable mrc_arrow_clicked
+drawable mrc_loading_wheel
+drawable mrc_uturn_arrow
+drawable mrc_uturn_arrow_clicked
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -713,6 +737,12 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable search_layer_advert_pin_dust_default
+drawable search_layer_advert_pin_icon_default
+drawable search_layer_pin_dust_default
+drawable search_layer_pin_empty
+drawable search_layer_pin_icon_default
+drawable search_layer_pin_selected_default
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1094,6 +1124,7 @@ string m3c_time_picker_period_toggle_description
 string m3c_time_picker_pm
 string m3c_tooltip_long_press_label
 string m3c_tooltip_pane_description
+string mapkit_api_key
 string navigation_menu
 string not_selected
 string range_end
@@ -1508,6 +1539,7 @@ styleable NavGraphNavigator startDestination
 styleable NavHost navGraph
 styleable NavInclude graph
 styleable Navigator android_label android_id route
+styleable PlatformView movable noninteractive offscreenBufferEnabled renderDebug vulkanPreferred
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.testcoffe.app-mergeDebugResources-60:/values-v16/values-v16.xml",
+            "outputFile": "com.example.testcoffe.app-mergeDebugResources-66:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/teplov56/.gradle/caches/8.11.1/transforms/d8f510b92c53f9f4328ca33e14813707/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "/Users/teplov56/.gradle/caches/8.11.1/transforms/10f44785d8c227c2ee40d35b4032d591/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

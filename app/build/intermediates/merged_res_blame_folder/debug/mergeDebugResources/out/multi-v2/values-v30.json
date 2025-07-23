@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.testcoffe.app-mergeDebugResources-60:/values-v30/values-v30.xml",
+            "outputFile": "com.example.testcoffe.app-mergeDebugResources-66:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/teplov56/.gradle/caches/8.11.1/transforms/152ed158954f6327c54c87ea0a9bc631/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "source": "/Users/teplov56/.gradle/caches/8.11.1/transforms/f527c2c0da50e14a89953f05aab8ab5b/transformed/material3-release/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

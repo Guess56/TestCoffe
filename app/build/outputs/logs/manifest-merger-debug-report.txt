@@ -4,83 +4,90 @@ ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidM
 INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:2:1-36:12
-MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/143b7eee6f5f9f33de5be97c889485b6/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/b77ee870367951cf6b9970470a9fa710/transformed/navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7344f9c305f680aa9e727d37e51aae59/transformed/koin-android-3.4.0/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/21f33ce966d0b484061511af60c00747/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e4e7222466337f7cd35f84812293fe5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8f510b92c53f9f4328ca33e14813707/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8c2744b316d46d9e8546bc6d3e2e58bd/transformed/play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
-MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/30a41de06b2f94e7f451f18ad2a618cb/transformed/media3-common-1.7.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media3:media3-common-ktx:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e6fca83b9eb95af7cefa15202ef9fc80/transformed/media3-common-ktx-1.7.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/0020e34596bdf0923dbea5b05304295a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/13e6b821853c1c51729a2dcdcd1c1589/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8677ef26f3902141a62cda73a1db1c03/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/12c9ff1c79d37850ba5e88f7e6637682/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/698240db4faa975d8870ef2d5e7864a5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/83472a8e0eead3d445f8fe862170eda7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/1e148fd07757a4065e0d3217ad97378b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/549dbcb293a1eca6fb7c1d19a067d8a7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/152ed158954f6327c54c87ea0a9bc631/transformed/material3-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/ef4bbeeccadd6a58b29cb8558f06dbef/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/314400896b048ab09f2f4d570c30996a/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/6c4863b9ac41ec606bac593cbfcc2dc0/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/21d3ebefda8e3f50ef235c56e53b9452/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.material:material-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2625c7119d894395bc5815569a6431c6/transformed/material-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/14958952bfee25b3a5ed4674148654e0/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/dc16d014119e7cfbe3e03b3a4b2b69b5/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/945452224a702897fbaf2528a1c2ec95/transformed/animation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/eae58b6f05d867f5da3cadc445fe5f1c/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/8f703d9d46d8dd1701a8d25be97ecbf0/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/71c39dd679e3deb7af4a7c732e4bb8c7/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/a1fa84a3770104444b505ef0e4345c93/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/213fe38a2ce8b9581d04c16de2b76b19/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/15794dd53debf252c5a7757da009e992/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/f15c56bb31a10d06686e2221828408e4/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/741eaca20d4626422c9c3fdfc1a8887e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/68fccfd9a090eebcf5ff21bc3236ef39/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d06c64e411dcb96719f949ff0f97df96/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0ae32ebd82d7591e7c5445d62fd4014/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c64b1d2ac98f37a044b67c6f142df697/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/16e5ee720d534d35e9c60936519d37df/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:2:1-5:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/644af9b7974e4bb9efc2ea7b95fc4fa2/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2df50b82003695ee19753f1cd66b244d/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/938f3a87df78997427d19dab77cacc6a/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/199a9f1df4000bd813ff264c543c450e/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7fafde578f22f7a5af4092b7cc0eef0f/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/c7d93c810404459de4cb7c5bbb2f176e/transformed/ui-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/5e9be218c9d15d73a3827d95b90d7f75/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/529efdf4ba8f6396e54885ebeb5bf36f/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c975acd9a234be168d413b224c022901/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e75586b7b4b9333ddb756d58c5a2827a/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/ddbf57e74975918c4e5b2e36ff22cb9a/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5e9b652989da7d0803b40c13ff1ed5f5/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/57bf13a3e752d5136650ac7870d30500/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/6718bbbb429b105ab9a9db25a64254d8/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/e03ef3a230b853ac26f9b9765a411106/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/47511d484000e293fafac1aeb7ee522a/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/b791883772992e1b9d0fb5272528ab64/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/02aa418ef19677912cfba87534fca629/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-compose:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e57c501959940def452c5addcb6df5e5/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/6513b39e01fcdfb876ac2af6e438a5b8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7061041246877756eebda0eef35aac84/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/19ebcd8e682df08e5f10242669de6c0a/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3fe3107a96bce267d7bf107bdd1a96e6/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/teplov56/.gradle/caches/8.11.1/transforms/0d32c6b089fdef6c305638da0500f449/transformed/security-crypto-1.1.0-alpha03/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c1e8700c3fa247232c009a948a40ea2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/43e91fccec35db1dc915e586bf4d47d1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3da2290d0a6a62c3f96004ac373c6d81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/dfb520ac999f434de4a8cc9c599f86f8/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/972b8b5b4b68567cc043af2e2b5ac536/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/0f85d5be66f715b1d38726831209c79c/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/b3ee9ab7021bd8ea15ff5d8128e502e5/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/45cbbc4cc6c542579574b61f4f9ba8d4/transformed/navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f03cb177b59e5803f02a19e7c635ded9/transformed/koin-android-3.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/0a59220e24979a2009d240d51a8ae688/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/44f7ed5e62bbb4894fd29b5f7eb9644d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/10f44785d8c227c2ee40d35b4032d591/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:3:1-39:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e4c3700b50ca44fbcfec13eacf258f1e/transformed/play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.play:integrity:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/25fe983015d7870cd403d78e8c3e7811/transformed/integrity-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b43d1d028343a5ed84b2eb97948e924/transformed/media3-common-1.7.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-common-ktx:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9a7febaf06142faf5f011c4f30ac53b6/transformed/media3-common-ktx-1.7.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/4b93502bdb4d1ffab664404dd5da7a80/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/eb866685c5fb8e427d536996c204b2b4/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/246ba8948af28232d4810b1582943001/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/6f71c068d1f33d2671405089b6b91903/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3205a83a8dbe1f02d912ecf9efbd39c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9c0171c1fbf92dbf76bbfca949fc248b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/891bd108daccbe1d3852e6332eafeb66/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2f55a69b38345168157149cba0a91738/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f527c2c0da50e14a89953f05aab8ab5b/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/316948c79bebda1dacf46ddfa1ddc8d3/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/bce7e4f2e51641c43a91e07c46cb06a2/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/5f1bad98eabe56f53f4cf86766cf3bc1/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/292d2ebd667e8d00cf8ee5dbbbb53a77/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/841fe79fd21441fc65b783d0739a5182/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/97fabbe9369b46d44fac23a91b1b4c02/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/93d15de5de5b48d5abce6128ec85ed7c/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/b88712f055e501a8b559e8c5b785412c/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/469b346e169260e8963bb59b6cb23dcf/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/7ebd6c1b0b834205302f9a7bbe9d3c31/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/e0ce0a97f34d88db5da4e6e3ad00db48/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2a770f0db41faad6c3a666f557313aef/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/300f03c4922743530211a2df33ba1cf2/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/3c6717fcb1902be5f7f333bee8a3a0f5/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2f583bb7d4be13730c35784da88c753e/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/1eebaf80455b4a7cd850dca0e07cc7f1/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/886d944b8b345cbbd2259c5424923379/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d07a15618c576c328fcbbe37cefc402e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/580e032839eab65cd3e8f0edab6173be/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5dfdaf688e86d01c0da21cc74b8a1b42/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f4e3a61f901112e59ee7b3909e8507a7/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a6b8c5b3f8ed445a391bc297f8edc0a9/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/75e774760691067fed6caa57133e4512/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/4a252747e929555aa7ae84bca12446f3/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/ac02a01c770fd25dc65b3a9faba337d3/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/5c41dd63bf859bb0c186b68cfe07df7b/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9bdd960b63619a562223e7b38445a019/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/92e4bfe23a899d29a821c8e42a12db6b/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c7b5441318cfae5b17f6a2820d587d0b/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/bd72ceff3f306436c4f11596497b1d55/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/fe151f95dcea1b177546041ad666fe7f/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/ddd8eec230ff3bdff9259b0c4d1d6874/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/29b621564b37a51b62fa45c42dbea072/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/a4555aa35aef32ddf36730e41f7ec746/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/8921e4950f183e79408c24eb3ee7aef2/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/ee645d4428d146a9e44aa0d34433cd22/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/686211c715cdfc5eccf0d4fd0bdb5262/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/3965b5580b55296d0bba76d630b2cd8e/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/fc79b973f8d84ef5b20e9c248c48589f/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/a15e76cb158ed4630b865603ffa0959b/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/53b520d911f06d63ee087bccd5402c3d/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/098e7c9726a6441d1acef649d26f57cf/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a716e75af01794cc178ba997a3551b7c/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/010829d3ad9bed9be454292dbdd0bfd2/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/4d172bf26779e910828d596838d64f0f/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/e1cac2dc7adb2b4148a63d8a4a0f47b9/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/39b64580169e370e3d2fddc430619f1a/transformed/sqlite-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/teplov56/.gradle/caches/8.11.1/transforms/7c7c3c7b594a983d14b856181cdc42ba/transformed/security-crypto-1.1.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f29cc95c6742e0e7a37f4f3d097b867e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a406a8faf3a7b1c45f35e22f1b1ff402/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8d8826c8e0d2f63ead26c3c48c8d7493/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/becc7b874f21788159a46fde6a5dc95e/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/798fc52b4eee7562e2bbb845531bc31e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/ef4db171c61600834d85ad54b7f83119/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -93,10 +100,14 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/teplov56/.gradle/cach
 		ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:18:5-67
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:18:5-67
 	android:name
 		ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:21:5-79
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:21:5-79
 	android:name
 		ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
@@ -106,34 +117,44 @@ ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidM
 application
 ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:9:5-34:19
 INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:9:5-34:19
-MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7344f9c305f680aa9e727d37e51aae59/transformed/koin-android-3.4.0/AndroidManifest.xml:9:5-20
-MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7344f9c305f680aa9e727d37e51aae59/transformed/koin-android-3.4.0/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8c2744b316d46d9e8546bc6d3e2e58bd/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8c2744b316d46d9e8546bc6d3e2e58bd/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/e03ef3a230b853ac26f9b9765a411106/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/e03ef3a230b853ac26f9b9765a411106/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c1e8700c3fa247232c009a948a40ea2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c1e8700c3fa247232c009a948a40ea2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3da2290d0a6a62c3f96004ac373c6d81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3da2290d0a6a62c3f96004ac373c6d81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f03cb177b59e5803f02a19e7c635ded9/transformed/koin-android-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f03cb177b59e5803f02a19e7c635ded9/transformed/koin-android-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:28:5-37:19
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:28:5-37:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e4c3700b50ca44fbcfec13eacf258f1e/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e4c3700b50ca44fbcfec13eacf258f1e/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.play:integrity:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/25fe983015d7870cd403d78e8c3e7811/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/25fe983015d7870cd403d78e8c3e7811/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/686211c715cdfc5eccf0d4fd0bdb5262/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/686211c715cdfc5eccf0d4fd0bdb5262/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f29cc95c6742e0e7a37f4f3d097b867e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f29cc95c6742e0e7a37f4f3d097b867e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8d8826c8e0d2f63ead26c3c48c8d7493/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8d8826c8e0d2f63ead26c3c48c8d7493/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:28:18-44
 	android:roundIcon
 		ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:19:9-54
 	android:icon
@@ -141,7 +162,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/cac
 	android:networkSecurityConfig
 		ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:15:9-69
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:20:9-35
 	android:label
@@ -186,281 +207,568 @@ uses-sdk
 INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml
 INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml
-MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/143b7eee6f5f9f33de5be97c889485b6/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/143b7eee6f5f9f33de5be97c889485b6/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/b77ee870367951cf6b9970470a9fa710/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/b77ee870367951cf6b9970470a9fa710/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7344f9c305f680aa9e727d37e51aae59/transformed/koin-android-3.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7344f9c305f680aa9e727d37e51aae59/transformed/koin-android-3.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/21f33ce966d0b484061511af60c00747/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/21f33ce966d0b484061511af60c00747/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e4e7222466337f7cd35f84812293fe5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e4e7222466337f7cd35f84812293fe5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8f510b92c53f9f4328ca33e14813707/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8f510b92c53f9f4328ca33e14813707/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8c2744b316d46d9e8546bc6d3e2e58bd/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8c2744b316d46d9e8546bc6d3e2e58bd/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/30a41de06b2f94e7f451f18ad2a618cb/transformed/media3-common-1.7.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/30a41de06b2f94e7f451f18ad2a618cb/transformed/media3-common-1.7.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-common-ktx:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e6fca83b9eb95af7cefa15202ef9fc80/transformed/media3-common-ktx-1.7.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-common-ktx:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e6fca83b9eb95af7cefa15202ef9fc80/transformed/media3-common-ktx-1.7.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/0020e34596bdf0923dbea5b05304295a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/0020e34596bdf0923dbea5b05304295a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/13e6b821853c1c51729a2dcdcd1c1589/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/13e6b821853c1c51729a2dcdcd1c1589/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8677ef26f3902141a62cda73a1db1c03/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8677ef26f3902141a62cda73a1db1c03/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/12c9ff1c79d37850ba5e88f7e6637682/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/12c9ff1c79d37850ba5e88f7e6637682/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/698240db4faa975d8870ef2d5e7864a5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/698240db4faa975d8870ef2d5e7864a5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/83472a8e0eead3d445f8fe862170eda7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/83472a8e0eead3d445f8fe862170eda7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/1e148fd07757a4065e0d3217ad97378b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/1e148fd07757a4065e0d3217ad97378b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/549dbcb293a1eca6fb7c1d19a067d8a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/549dbcb293a1eca6fb7c1d19a067d8a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/152ed158954f6327c54c87ea0a9bc631/transformed/material3-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/152ed158954f6327c54c87ea0a9bc631/transformed/material3-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/ef4bbeeccadd6a58b29cb8558f06dbef/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/ef4bbeeccadd6a58b29cb8558f06dbef/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/314400896b048ab09f2f4d570c30996a/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/314400896b048ab09f2f4d570c30996a/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/6c4863b9ac41ec606bac593cbfcc2dc0/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/6c4863b9ac41ec606bac593cbfcc2dc0/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/21d3ebefda8e3f50ef235c56e53b9452/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/21d3ebefda8e3f50ef235c56e53b9452/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2625c7119d894395bc5815569a6431c6/transformed/material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2625c7119d894395bc5815569a6431c6/transformed/material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/14958952bfee25b3a5ed4674148654e0/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/14958952bfee25b3a5ed4674148654e0/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/dc16d014119e7cfbe3e03b3a4b2b69b5/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/dc16d014119e7cfbe3e03b3a4b2b69b5/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/945452224a702897fbaf2528a1c2ec95/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/945452224a702897fbaf2528a1c2ec95/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/eae58b6f05d867f5da3cadc445fe5f1c/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/eae58b6f05d867f5da3cadc445fe5f1c/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/8f703d9d46d8dd1701a8d25be97ecbf0/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/8f703d9d46d8dd1701a8d25be97ecbf0/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/71c39dd679e3deb7af4a7c732e4bb8c7/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/71c39dd679e3deb7af4a7c732e4bb8c7/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/a1fa84a3770104444b505ef0e4345c93/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/a1fa84a3770104444b505ef0e4345c93/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/213fe38a2ce8b9581d04c16de2b76b19/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/213fe38a2ce8b9581d04c16de2b76b19/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/15794dd53debf252c5a7757da009e992/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/15794dd53debf252c5a7757da009e992/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/f15c56bb31a10d06686e2221828408e4/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/f15c56bb31a10d06686e2221828408e4/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/741eaca20d4626422c9c3fdfc1a8887e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/741eaca20d4626422c9c3fdfc1a8887e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/68fccfd9a090eebcf5ff21bc3236ef39/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/68fccfd9a090eebcf5ff21bc3236ef39/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d06c64e411dcb96719f949ff0f97df96/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d06c64e411dcb96719f949ff0f97df96/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0ae32ebd82d7591e7c5445d62fd4014/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0ae32ebd82d7591e7c5445d62fd4014/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c64b1d2ac98f37a044b67c6f142df697/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c64b1d2ac98f37a044b67c6f142df697/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/16e5ee720d534d35e9c60936519d37df/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/16e5ee720d534d35e9c60936519d37df/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/644af9b7974e4bb9efc2ea7b95fc4fa2/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/644af9b7974e4bb9efc2ea7b95fc4fa2/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2df50b82003695ee19753f1cd66b244d/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2df50b82003695ee19753f1cd66b244d/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/938f3a87df78997427d19dab77cacc6a/transformed/savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/938f3a87df78997427d19dab77cacc6a/transformed/savedstate-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/199a9f1df4000bd813ff264c543c450e/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/199a9f1df4000bd813ff264c543c450e/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7fafde578f22f7a5af4092b7cc0eef0f/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7fafde578f22f7a5af4092b7cc0eef0f/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/c7d93c810404459de4cb7c5bbb2f176e/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/c7d93c810404459de4cb7c5bbb2f176e/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/5e9be218c9d15d73a3827d95b90d7f75/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/5e9be218c9d15d73a3827d95b90d7f75/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/529efdf4ba8f6396e54885ebeb5bf36f/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/529efdf4ba8f6396e54885ebeb5bf36f/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c975acd9a234be168d413b224c022901/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c975acd9a234be168d413b224c022901/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e75586b7b4b9333ddb756d58c5a2827a/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e75586b7b4b9333ddb756d58c5a2827a/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/ddbf57e74975918c4e5b2e36ff22cb9a/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/ddbf57e74975918c4e5b2e36ff22cb9a/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5e9b652989da7d0803b40c13ff1ed5f5/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5e9b652989da7d0803b40c13ff1ed5f5/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/57bf13a3e752d5136650ac7870d30500/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/57bf13a3e752d5136650ac7870d30500/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/6718bbbb429b105ab9a9db25a64254d8/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/6718bbbb429b105ab9a9db25a64254d8/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/e03ef3a230b853ac26f9b9765a411106/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/e03ef3a230b853ac26f9b9765a411106/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/47511d484000e293fafac1aeb7ee522a/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/47511d484000e293fafac1aeb7ee522a/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/b791883772992e1b9d0fb5272528ab64/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/b791883772992e1b9d0fb5272528ab64/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/02aa418ef19677912cfba87534fca629/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/02aa418ef19677912cfba87534fca629/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e57c501959940def452c5addcb6df5e5/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e57c501959940def452c5addcb6df5e5/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/6513b39e01fcdfb876ac2af6e438a5b8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/6513b39e01fcdfb876ac2af6e438a5b8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7061041246877756eebda0eef35aac84/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/7061041246877756eebda0eef35aac84/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/19ebcd8e682df08e5f10242669de6c0a/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/19ebcd8e682df08e5f10242669de6c0a/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3fe3107a96bce267d7bf107bdd1a96e6/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3fe3107a96bce267d7bf107bdd1a96e6/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/teplov56/.gradle/caches/8.11.1/transforms/0d32c6b089fdef6c305638da0500f449/transformed/security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/teplov56/.gradle/caches/8.11.1/transforms/0d32c6b089fdef6c305638da0500f449/transformed/security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c1e8700c3fa247232c009a948a40ea2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c1e8700c3fa247232c009a948a40ea2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/43e91fccec35db1dc915e586bf4d47d1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/43e91fccec35db1dc915e586bf4d47d1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3da2290d0a6a62c3f96004ac373c6d81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3da2290d0a6a62c3f96004ac373c6d81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/dfb520ac999f434de4a8cc9c599f86f8/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/dfb520ac999f434de4a8cc9c599f86f8/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/972b8b5b4b68567cc043af2e2b5ac536/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/972b8b5b4b68567cc043af2e2b5ac536/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/0f85d5be66f715b1d38726831209c79c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/0f85d5be66f715b1d38726831209c79c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/b3ee9ab7021bd8ea15ff5d8128e502e5/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/b3ee9ab7021bd8ea15ff5d8128e502e5/transformed/koin-androidx-compose-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/45cbbc4cc6c542579574b61f4f9ba8d4/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/45cbbc4cc6c542579574b61f4f9ba8d4/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f03cb177b59e5803f02a19e7c635ded9/transformed/koin-android-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f03cb177b59e5803f02a19e7c635ded9/transformed/koin-android-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/0a59220e24979a2009d240d51a8ae688/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/0a59220e24979a2009d240d51a8ae688/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/44f7ed5e62bbb4894fd29b5f7eb9644d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/44f7ed5e62bbb4894fd29b5f7eb9644d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/10f44785d8c227c2ee40d35b4032d591/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/10f44785d8c227c2ee40d35b4032d591/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:9:5-11:41
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:9:5-11:41
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:23:5-58
+MERGED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:23:5-58
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e4c3700b50ca44fbcfec13eacf258f1e/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/e4c3700b50ca44fbcfec13eacf258f1e/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/25fe983015d7870cd403d78e8c3e7811/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/25fe983015d7870cd403d78e8c3e7811/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b43d1d028343a5ed84b2eb97948e924/transformed/media3-common-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b43d1d028343a5ed84b2eb97948e924/transformed/media3-common-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common-ktx:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9a7febaf06142faf5f011c4f30ac53b6/transformed/media3-common-ktx-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common-ktx:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9a7febaf06142faf5f011c4f30ac53b6/transformed/media3-common-ktx-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/4b93502bdb4d1ffab664404dd5da7a80/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/4b93502bdb4d1ffab664404dd5da7a80/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/eb866685c5fb8e427d536996c204b2b4/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/eb866685c5fb8e427d536996c204b2b4/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/246ba8948af28232d4810b1582943001/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/246ba8948af28232d4810b1582943001/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/6f71c068d1f33d2671405089b6b91903/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/6f71c068d1f33d2671405089b6b91903/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3205a83a8dbe1f02d912ecf9efbd39c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3205a83a8dbe1f02d912ecf9efbd39c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9c0171c1fbf92dbf76bbfca949fc248b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9c0171c1fbf92dbf76bbfca949fc248b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/891bd108daccbe1d3852e6332eafeb66/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/891bd108daccbe1d3852e6332eafeb66/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2f55a69b38345168157149cba0a91738/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/2f55a69b38345168157149cba0a91738/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f527c2c0da50e14a89953f05aab8ab5b/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f527c2c0da50e14a89953f05aab8ab5b/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/316948c79bebda1dacf46ddfa1ddc8d3/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/316948c79bebda1dacf46ddfa1ddc8d3/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/bce7e4f2e51641c43a91e07c46cb06a2/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/teplov56/.gradle/caches/8.11.1/transforms/bce7e4f2e51641c43a91e07c46cb06a2/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/5f1bad98eabe56f53f4cf86766cf3bc1/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/5f1bad98eabe56f53f4cf86766cf3bc1/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/292d2ebd667e8d00cf8ee5dbbbb53a77/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/292d2ebd667e8d00cf8ee5dbbbb53a77/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/841fe79fd21441fc65b783d0739a5182/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/841fe79fd21441fc65b783d0739a5182/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/97fabbe9369b46d44fac23a91b1b4c02/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/97fabbe9369b46d44fac23a91b1b4c02/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/93d15de5de5b48d5abce6128ec85ed7c/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/93d15de5de5b48d5abce6128ec85ed7c/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/b88712f055e501a8b559e8c5b785412c/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/b88712f055e501a8b559e8c5b785412c/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/469b346e169260e8963bb59b6cb23dcf/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/469b346e169260e8963bb59b6cb23dcf/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/7ebd6c1b0b834205302f9a7bbe9d3c31/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/7ebd6c1b0b834205302f9a7bbe9d3c31/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/e0ce0a97f34d88db5da4e6e3ad00db48/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/e0ce0a97f34d88db5da4e6e3ad00db48/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2a770f0db41faad6c3a666f557313aef/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2a770f0db41faad6c3a666f557313aef/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/300f03c4922743530211a2df33ba1cf2/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/300f03c4922743530211a2df33ba1cf2/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/3c6717fcb1902be5f7f333bee8a3a0f5/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/3c6717fcb1902be5f7f333bee8a3a0f5/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2f583bb7d4be13730c35784da88c753e/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2f583bb7d4be13730c35784da88c753e/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/1eebaf80455b4a7cd850dca0e07cc7f1/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/1eebaf80455b4a7cd850dca0e07cc7f1/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/886d944b8b345cbbd2259c5424923379/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/886d944b8b345cbbd2259c5424923379/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d07a15618c576c328fcbbe37cefc402e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d07a15618c576c328fcbbe37cefc402e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/580e032839eab65cd3e8f0edab6173be/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/580e032839eab65cd3e8f0edab6173be/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5dfdaf688e86d01c0da21cc74b8a1b42/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5dfdaf688e86d01c0da21cc74b8a1b42/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f4e3a61f901112e59ee7b3909e8507a7/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f4e3a61f901112e59ee7b3909e8507a7/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a6b8c5b3f8ed445a391bc297f8edc0a9/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a6b8c5b3f8ed445a391bc297f8edc0a9/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/75e774760691067fed6caa57133e4512/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/75e774760691067fed6caa57133e4512/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/4a252747e929555aa7ae84bca12446f3/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/4a252747e929555aa7ae84bca12446f3/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/ac02a01c770fd25dc65b3a9faba337d3/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/ac02a01c770fd25dc65b3a9faba337d3/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/5c41dd63bf859bb0c186b68cfe07df7b/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/5c41dd63bf859bb0c186b68cfe07df7b/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9bdd960b63619a562223e7b38445a019/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9bdd960b63619a562223e7b38445a019/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/92e4bfe23a899d29a821c8e42a12db6b/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/92e4bfe23a899d29a821c8e42a12db6b/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c7b5441318cfae5b17f6a2820d587d0b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/c7b5441318cfae5b17f6a2820d587d0b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/bd72ceff3f306436c4f11596497b1d55/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/bd72ceff3f306436c4f11596497b1d55/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/fe151f95dcea1b177546041ad666fe7f/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/fe151f95dcea1b177546041ad666fe7f/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/ddd8eec230ff3bdff9259b0c4d1d6874/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/ddd8eec230ff3bdff9259b0c4d1d6874/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/29b621564b37a51b62fa45c42dbea072/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/29b621564b37a51b62fa45c42dbea072/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/a4555aa35aef32ddf36730e41f7ec746/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/a4555aa35aef32ddf36730e41f7ec746/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/8921e4950f183e79408c24eb3ee7aef2/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/8921e4950f183e79408c24eb3ee7aef2/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/ee645d4428d146a9e44aa0d34433cd22/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/ee645d4428d146a9e44aa0d34433cd22/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/686211c715cdfc5eccf0d4fd0bdb5262/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/teplov56/.gradle/caches/8.11.1/transforms/686211c715cdfc5eccf0d4fd0bdb5262/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/3965b5580b55296d0bba76d630b2cd8e/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/teplov56/.gradle/caches/8.11.1/transforms/3965b5580b55296d0bba76d630b2cd8e/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/fc79b973f8d84ef5b20e9c248c48589f/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/fc79b973f8d84ef5b20e9c248c48589f/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/a15e76cb158ed4630b865603ffa0959b/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/a15e76cb158ed4630b865603ffa0959b/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/53b520d911f06d63ee087bccd5402c3d/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/53b520d911f06d63ee087bccd5402c3d/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/098e7c9726a6441d1acef649d26f57cf/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/098e7c9726a6441d1acef649d26f57cf/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a716e75af01794cc178ba997a3551b7c/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a716e75af01794cc178ba997a3551b7c/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/010829d3ad9bed9be454292dbdd0bfd2/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/010829d3ad9bed9be454292dbdd0bfd2/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/4d172bf26779e910828d596838d64f0f/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/4d172bf26779e910828d596838d64f0f/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/e1cac2dc7adb2b4148a63d8a4a0f47b9/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/e1cac2dc7adb2b4148a63d8a4a0f47b9/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/39b64580169e370e3d2fddc430619f1a/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/39b64580169e370e3d2fddc430619f1a/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/teplov56/.gradle/caches/8.11.1/transforms/7c7c3c7b594a983d14b856181cdc42ba/transformed/security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/teplov56/.gradle/caches/8.11.1/transforms/7c7c3c7b594a983d14b856181cdc42ba/transformed/security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f29cc95c6742e0e7a37f4f3d097b867e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/f29cc95c6742e0e7a37f4f3d097b867e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a406a8faf3a7b1c45f35e22f1b1ff402/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a406a8faf3a7b1c45f35e22f1b1ff402/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8d8826c8e0d2f63ead26c3c48c8d7493/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8d8826c8e0d2f63ead26c3c48c8d7493/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/becc7b874f21788159a46fde6a5dc95e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/becc7b874f21788159a46fde6a5dc95e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/798fc52b4eee7562e2bbb845531bc31e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/798fc52b4eee7562e2bbb845531bc31e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/ef4db171c61600834d85ad54b7f83119/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/ef4db171c61600834d85ad54b7f83119/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:23:15-55
 	android:targetSdkVersion
 		INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+		MERGED from /Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:13:5-15:35
+	android:glEsVersion
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:14:9-41
+	android:required
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:15:9-32
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/30a41de06b2f94e7f451f18ad2a618cb/transformed/media3-common-1.7.1/AndroidManifest.xml:22:5-79
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:17:5-79
+MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b43d1d028343a5ed84b2eb97948e924/transformed/media3-common-1.7.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b43d1d028343a5ed84b2eb97948e924/transformed/media3-common-1.7.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/30a41de06b2f94e7f451f18ad2a618cb/transformed/media3-common-1.7.1/AndroidManifest.xml:22:22-76
-activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
-	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:19:5-76
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
-activity#androidx.activity.ComponentActivity
-ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:23:9-25:39
-	android:exported
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:25:13-36
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:20:5-76
 	android:name
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:24:13-63
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3da2290d0a6a62c3f96004ac373c6d81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/3da2290d0a6a62c3f96004ac373c6d81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
-	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:20:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:23:5-68
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
-meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:26:5-81
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:25:5-81
+MERGED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:26:22-78
+meta-data#yandex.maps.runtime.stl.linkage
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:29:9-31:38
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:31:13-35
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:30:17-78
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
-permission#com.example.testcoffe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
-uses-permission#com.example.testcoffe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
-	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:30:13-59
+service#com.yandex.runtime.connectivity.internal.ConnectivityService
+ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:33:9-36:72
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.18.0-full] /Users/teplov56/.gradle/caches/8.11.1/transforms/10b37d6857855a3b73dcd7f9d6114b5c/transformed/maps.mobile-4.18.0-full/AndroidManifest.xml:34:13-88
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:26:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8d8826c8e0d2f63ead26c3c48c8d7493/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/8d8826c8e0d2f63ead26c3c48c8d7493/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:33:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:30:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:45:13-32
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:41:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/9d837987f2301dde444ea94b0d8be903/transformed/work-runtime-2.8.1/AndroidManifest.xml:140:25-85
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/85c4e521252fdd42e3c3739298087d57/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/9671330c48608a601d7585783aa05a3b/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:24:13-63
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/69aa231d188eeeb08141516cc9216df4/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/d0677a1bb8f1925efdddd2d7ca76ba94/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.example.testcoffe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.testcoffe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/691ba10b6442d6950ebdc5b36bf604d8/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/f92969708d85907550491d9d8bdc76ca/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/fdcf1e3749774fc56d5a0f5450024322/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/d8ddcd73a2023d283f9f989ac231bdb6/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

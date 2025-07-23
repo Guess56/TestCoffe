@@ -1,9 +1,12 @@
 package com.example.testcoffe.ui
 
+import android.Manifest
 import android.content.pm.PackageManager
 import android.os.Bundle
 import android.util.Log
 import android.util.Patterns
+import android.view.ViewGroup
+import android.view.ViewGroup.LayoutParams.MATCH_PARENT
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.rememberLauncherForActivityResult
@@ -13,6 +16,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -33,6 +37,7 @@ import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.OutlinedTextFieldDefaults
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.derivedStateOf
@@ -54,7 +59,10 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.ui.viewinterop.AndroidView
 import androidx.core.content.ContextCompat
+import androidx.navigation.NavController
+import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
@@ -66,21 +74,20 @@ import com.example.testcoffe.utils.LocationState
 import com.example.testcoffe.utils.LoginState
 import com.example.testcoffe.utils.RegistrationState
 import com.google.android.gms.location.LocationServices
+import com.yandex.mapkit.MapKitFactory
+import com.yandex.mapkit.map.CameraPosition
+import com.yandex.mapkit.map.MapObjectCollection
+import com.yandex.mapkit.geometry.Point as YandexPoint
+import com.yandex.mapkit.mapview.MapView
+import com.yandex.runtime.image.ImageProvider
 import kotlinx.coroutines.tasks.await
 import org.koin.androidx.compose.koinViewModel
 
 
 class MainActivity : ComponentActivity() {
+    private var mapView: MapView? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        val fusedLocationClient = LocationServices.getFusedLocationProviderClient(this)
-
-        val locationPermissionLauncher = registerForActivityResult(
-            ActivityResultContracts.RequestPermission()
-        ) { granted ->
-
-        }
         enableEdgeToEdge()
         setContent {
 
@@ -90,7 +97,7 @@ class MainActivity : ComponentActivity() {
                 mutableStateOf(
                     ContextCompat.checkSelfPermission(
                         context,
-                        android.Manifest.permission.ACCESS_FINE_LOCATION
+                        Manifest.permission.ACCESS_FINE_LOCATION
                     ) == PackageManager.PERMISSION_GRANTED
                 )
             }
@@ -110,7 +117,7 @@ class MainActivity : ComponentActivity() {
 
             LaunchedEffect(Unit) {
                 if (!hasLocationPermission) {
-                    locationPermissionLauncher.launch(android.Manifest.permission.ACCESS_FINE_LOCATION)
+                    locationPermissionLauncher.launch(Manifest.permission.ACCESS_FINE_LOCATION)
                 }
             }
 
@@ -138,6 +145,7 @@ class MainActivity : ComponentActivity() {
 
 
             val navController = rememberNavController()
+            val locationViewModel: LocationViewModel = koinViewModel()
             NavHost(navController = navController, startDestination = "register") {
                 composable("login") {
                     LoginScreen(
@@ -153,11 +161,38 @@ class MainActivity : ComponentActivity() {
                 composable("cafe") {
                     CafeScreen(
                         onNavigateToLogin = { navController.navigate("login") },
-                        userPoint = userPoint
+                        userPoint = userPoint,
+                        locationViewModel = locationViewModel,
+                        navController = navController
+
+                    )
+                }
+                composable("mapScreen") {
+                    val locationState by locationViewModel.state.collectAsState()
+                    val cafeItems = when (locationState) {
+                        is LocationState.Content -> (locationState as LocationState.Content).data
+                        else -> emptyList()
+                    }
+                    YandexMapScreen(
+                        cafeItems = cafeItems,
+                        onMarkerClick = { /* ... */ },
+                        onMapReady = { mapView = it }
                     )
                 }
             }
         }
+    }
+
+    override fun onStart() {
+        super.onStart()
+        mapView?.onStart()
+        MapKitFactory.getInstance().onStart()
+    }
+
+    override fun onStop() {
+        super.onStop()
+        mapView?.onStop()
+        MapKitFactory.getInstance().onStop()
     }
 }
 
@@ -395,7 +430,8 @@ fun LoginScreen(
 fun CafeScreen(
     onNavigateToLogin: () -> Unit,
     userPoint: Point?,
-    locationViewModel: LocationViewModel = koinViewModel()
+    locationViewModel: LocationViewModel = koinViewModel(),
+    navController: NavHostController
 ) {
     Log.e("user", "$userPoint")
 
@@ -417,9 +453,11 @@ fun CafeScreen(
         Font(R.font.sfuidisplay_bold, weight = FontWeight.Bold)
     )
 
-    Box(modifier = Modifier
-        .fillMaxSize()
-        .padding(horizontal = 18.dp)) {
+    Box(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(horizontal = 18.dp)
+    ) {
 
         Column(
             modifier = Modifier
@@ -446,13 +484,13 @@ fun CafeScreen(
         }
 
         SimpleLocationButton(
-            onClick = { /* TODO обработка */ },
-            enable = false,
+            onClick = { navController.navigate("mapScreen") },
+            enable = cafeItems.isNotEmpty(),
             text = "На карте",
             modifier = Modifier
                 .align(Alignment.BottomCenter)
                 .fillMaxWidth()
-                .padding(horizontal = 0.dp, vertical = 16.dp)
+                .padding(horizontal = 0.dp, vertical = 16.dp),
         )
     }
 }
@@ -546,7 +584,9 @@ fun SimpleButton(
 }
 
 @Composable
-fun RecyclerView(items: List<CafeItems>) {
+fun RecyclerView(
+    items: List<CafeItems>
+) {
     Column(
         modifier = Modifier
 
@@ -569,7 +609,10 @@ fun RecyclerView(items: List<CafeItems>) {
                             color = colorResource(id = R.color.button_text_color),
                             shape = RoundedCornerShape(5.dp)
                         )
-                        .padding(10.dp),
+                        .padding(10.dp)
+                        .clickable {
+                            ////
+                        }
                 ) {
                     Column(
                         modifier = Modifier.fillMaxSize(),
@@ -600,7 +643,7 @@ fun SimpleLocationButton(
     onClick: () -> Unit,
     enable: Boolean,
     text: String,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
 ) {
     Button(
         onClick = onClick,
@@ -619,3 +662,53 @@ fun SimpleLocationButton(
         Text(text = text)
     }
 }
+
+@Composable
+fun YandexMapScreen(
+    cafeItems: List<CafeItems>,
+    onMarkerClick: (CafeItems) -> Unit,
+    onMapReady: (MapView) -> Unit
+) {
+    Log.e("items","$cafeItems")
+    val context = LocalContext.current
+
+    val mapView = remember {
+        MapView(context).apply {
+            layoutParams = ViewGroup.LayoutParams(MATCH_PARENT, MATCH_PARENT)
+            map.move(
+                CameraPosition(YandexPoint(cafeItems.first().latitude, cafeItems.first().longitude), 12f, 0f, 0f)
+            )
+        }
+    }
+
+    LaunchedEffect(Unit) {
+        onMapReady(mapView)
+    }
+
+    DisposableEffect(key1 = cafeItems) {
+        val mapObjects = mapView.map.mapObjects
+        mapObjects.clear()
+
+        cafeItems.forEach { cafe ->
+            mapObjects.addPlacemark { placemark ->
+                placemark.geometry = YandexPoint(cafe.latitude, cafe.longitude)
+                placemark.setIcon(
+                    ImageProvider.fromResource(context, R.drawable.ic_marker)
+                )
+                placemark.addTapListener { _, _ ->
+                    onMarkerClick(cafe)
+                    true
+                }
+            }
+        }
+        onDispose { }
+    }
+
+    AndroidView(
+        factory = { mapView },
+        modifier = Modifier.fillMaxSize()
+    )
+}
+
+
+

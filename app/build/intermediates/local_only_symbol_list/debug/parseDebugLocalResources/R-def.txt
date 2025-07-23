@@ -14,11 +14,13 @@ color title
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_marker
 font sfuidisplay_bold
 font sfuidisplay_heavy
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string mapkit_api_key
 style Theme.TestCoffe
 xml backup_rules
 xml data_extraction_rules

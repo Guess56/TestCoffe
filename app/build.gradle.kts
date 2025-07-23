@@ -1,3 +1,6 @@
+
+import java.util.Properties
+
 plugins {
     id ("com.android.application")
     alias(libs.plugins.kotlin.android)
@@ -16,7 +19,15 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        val properties = Properties()
+        val localPropertiesFile = rootProject.file("local.properties")
+        if (localPropertiesFile.exists()) {
+            properties.load(localPropertiesFile.inputStream())
+        }
+        val mapkitApiKey = properties.getProperty("MAPKIT_API_KEY", "")
+        resValue("string", "mapkit_api_key", mapkitApiKey)
     }
+
 
     buildTypes {
         release {
@@ -36,6 +47,7 @@ android {
     }
     buildFeatures {
         compose = true
+        buildConfig = true
     }
 }
 
@@ -58,10 +70,8 @@ dependencies {
     implementation ("io.insert-koin:koin-android:3.4.0")
     implementation ("io.insert-koin:koin-androidx-compose:3.4.0")
     implementation ("androidx.security:security-crypto:1.1.0-alpha03")
-    implementation ("com.google.android.gms:play-services-location:21.0.1")
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.7.3")
-    implementation ("com.google.maps.android:maps-compose:2.13.0")
-    implementation ("com.google.android.gms:play-services-maps:18.1.0")
+    implementation ("com.yandex.android:maps.mobile:4.18.0-full")
     implementation(libs.androidx.media3.common.ktx)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

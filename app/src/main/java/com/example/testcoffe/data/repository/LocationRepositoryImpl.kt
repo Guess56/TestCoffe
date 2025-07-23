@@ -14,8 +14,18 @@ class LocationRepositoryImpl(private val networkClient: NetworkClient) : Locatio
         try {
             val response = networkClient.location()
             if (response.isSuccessful) {
-                val locations = response.body()
-                if (!locations.isNullOrEmpty()) {
+                val locationsResponse = response.body()
+                if (!locationsResponse.isNullOrEmpty()) {
+                    val locations = locationsResponse.map { item ->
+                        Location(
+                            id = item.id,
+                            name = item.name,
+                            point = Point(
+                                latitude = item.point.latitude,
+                                longitude = item.point.longitude
+                            )
+                        )
+                    }
                     emit(Resource.Success(locations))
                 } else {
                     emit(Resource.Error("Список локаций пуст"))
@@ -33,11 +43,3 @@ class LocationRepositoryImpl(private val networkClient: NetworkClient) : Locatio
     }
 }
 
-private fun LocationResponse.toLocation(): Location = Location(
-    id = this.id.toInt(),
-    name = this.name,
-    point = Point(
-        latitude = this.point.latitude.toDouble(),
-        longitude = this.point.longitude.toDouble()
-    )
-)
