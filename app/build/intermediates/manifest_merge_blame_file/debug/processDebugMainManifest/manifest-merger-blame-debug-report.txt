@@ -1,0 +1,182 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.testcoffe"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:6:5-81
+13-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/30a41de06b2f94e7f451f18ad2a618cb/transformed/media3-common-1.7.1/AndroidManifest.xml:22:5-79
+14-->[androidx.media3:media3-common:1.7.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/30a41de06b2f94e7f451f18ad2a618cb/transformed/media3-common-1.7.1/AndroidManifest.xml:22:22-76
+15
+16    <permission
+16-->[androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.testcoffe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.testcoffe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:9:5-34:19
+23        android:name="com.example.testcoffe.App"
+23-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:10:9-28
+24        android:allowBackup="true"
+24-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:11:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.16.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3823e862b53f1098e46d04ea07f1b1e7/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:12:9-65
+27        android:debuggable="true"
+28        android:enableOnBackInvokedCallback="true"
+28-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:14:9-51
+29        android:extractNativeLibs="false"
+30        android:fullBackupContent="@xml/backup_rules"
+30-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:16:9-54
+31        android:icon="@mipmap/ic_launcher"
+31-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:17:9-43
+32        android:label="@string/app_name"
+32-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:18:9-41
+33        android:networkSecurityConfig="@xml/network_security_config"
+33-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:15:9-69
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:19:9-54
+35        android:supportsRtl="true"
+35-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:20:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.TestCoffe"
+37-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:21:9-47
+38        android:usesCleartextTraffic="true" >
+38-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:13:9-44
+39        <activity
+39-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:23:9-33:20
+40            android:name="com.example.testcoffe.ui.MainActivity"
+40-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:24:13-44
+41            android:exported="true"
+41-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:25:13-36
+42            android:label="@string/app_name"
+42-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:26:13-45
+43            android:theme="@style/Theme.TestCoffe" >
+43-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:27:13-51
+44            <intent-filter>
+44-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:28:13-32:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:29:17-69
+45-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:29:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:31:17-77
+47-->/Users/teplov56/AndroidStudioProjects/TestCoffe/app/src/main/AndroidManifest.xml:31:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->[com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+51            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+51-->[com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+52            android:exported="false"
+52-->[com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+53            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+53-->[com.google.android.gms:play-services-base:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/94991ba3f48835a860daeab36997c0de/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+54        <activity
+54-->[androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+55            android:name="androidx.compose.ui.tooling.PreviewActivity"
+55-->[androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+56            android:exported="true" />
+56-->[androidx.compose.ui:ui-tooling-android:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/2e409f1e1fb4b9a0e5904fa191414f78/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+57        <activity
+57-->[androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:23:9-25:39
+58            android:name="androidx.activity.ComponentActivity"
+58-->[androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:24:13-63
+59            android:exported="true" />
+59-->[androidx.compose.ui:ui-test-manifest:1.7.8] /Users/teplov56/.gradle/caches/8.11.1/transforms/851fc69569d80c56b9cd8f2a5f33e4fa/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:25:13-36
+60
+61        <provider
+61-->[androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+63            android:authorities="com.example.testcoffe.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.3.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/9501cd06536c6765f9ee22a97e9f09cd/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:30:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.9.1] /Users/teplov56/.gradle/caches/8.11.1/transforms/5cc701f3a44dc14d3565f87ad2a55192/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:31:17-49
+71            <meta-data
+71-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+72-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+73                android:value="androidx.startup" />
+73-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+74        </provider>
+75
+76        <meta-data
+76-->[com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+77            android:name="com.google.android.gms.version"
+77-->[com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+78            android:value="@integer/google_play_services_version" />
+78-->[com.google.android.gms:play-services-basement:18.1.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/3b4dd4562306a27442cd3c21b20c685c/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+79
+80        <receiver
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+81            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+82            android:directBootAware="false"
+82-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+83            android:enabled="true"
+83-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+84            android:exported="true"
+84-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+85            android:permission="android.permission.DUMP" >
+85-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+87                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+90                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+93                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+96                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/teplov56/.gradle/caches/8.11.1/transforms/a5e76439236e9289ff7bab5e58cbbc80/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+97            </intent-filter>
+98        </receiver>
+99    </application>
+100
+101</manifest>
