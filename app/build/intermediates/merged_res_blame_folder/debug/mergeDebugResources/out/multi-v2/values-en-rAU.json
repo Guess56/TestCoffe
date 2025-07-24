@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.testcoffe.app-mergeDebugResources-66:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.example.testcoffe.app-mergeDebugResources-67:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/Users/teplov56/.gradle/caches/8.11.1/transforms/5c41dd63bf859bb0c186b68cfe07df7b/transformed/ui-release/res/values-en-rAU/values-en-rAU.xml",

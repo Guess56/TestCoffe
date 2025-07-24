@@ -1,5 +1,6 @@
 package com.example.testcoffe.data.network
 
+import com.example.testcoffe.data.dto.LocationIdResponse
 import com.example.testcoffe.data.dto.LocationResponse
 import com.example.testcoffe.data.dto.LoginRequest
 import com.example.testcoffe.data.dto.LoginResponse
@@ -19,5 +20,9 @@ class RetrofitClient(private val apiClient: RegistrationApiClient) : NetworkClie
 
     override suspend fun location(): Response<List<Location>> {
         return apiClient.location()
+    }
+
+    override suspend fun locationId(id: Int): Response<List<LocationIdResponse>> {
+        return apiClient.locationId(id)
     }
 }

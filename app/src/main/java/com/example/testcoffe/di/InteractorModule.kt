@@ -1,8 +1,10 @@
 package com.example.testcoffe.di
 
+import com.example.testcoffe.data.interactor.LocationIdInteractor
 import com.example.testcoffe.data.interactor.LocationInteractor
 import com.example.testcoffe.data.interactor.LoginInteractor
 import com.example.testcoffe.data.interactor.RegistrationInteractor
+import com.example.testcoffe.domain.interactor.LocationIdInteractorImpl
 import com.example.testcoffe.domain.interactor.LocationInteractorImpl
 import com.example.testcoffe.domain.interactor.LoginInteractorImpl
 import com.example.testcoffe.domain.interactor.RegistrationInteractorImpl
@@ -17,5 +19,8 @@ val interactorModule = module {
     }
     single<LocationInteractor> {
         LocationInteractorImpl(get())
+    }
+    single<LocationIdInteractor> {
+        LocationIdInteractorImpl(get())
     }
 }

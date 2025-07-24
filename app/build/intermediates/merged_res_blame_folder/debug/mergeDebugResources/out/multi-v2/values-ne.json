@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.testcoffe.app-mergeDebugResources-66:/values-ne/values-ne.xml",
+            "outputFile": "com.example.testcoffe.app-mergeDebugResources-67:/values-ne/values-ne.xml",
             "map": [
                 {
                     "source": "/Users/teplov56/.gradle/caches/8.11.1/transforms/7ebd6c1b0b834205302f9a7bbe9d3c31/transformed/foundation-release/res/values-ne/values-ne.xml",

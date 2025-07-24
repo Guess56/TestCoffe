@@ -1,9 +1,11 @@
 package com.example.testcoffe.di
 
+import com.example.testcoffe.data.repository.LocationIdRepositoryImpl
 import com.example.testcoffe.data.repository.LocationRepositoryImpl
 import com.example.testcoffe.data.repository.LoginRepositoryImpl
 import com.example.testcoffe.data.repository.RegistrationRepositoryImpl
 import com.example.testcoffe.data.repository.TokenRepositoryImpl
+import com.example.testcoffe.domain.repository.LocationIdRepository
 import com.example.testcoffe.domain.repository.LocationRepository
 import com.example.testcoffe.domain.repository.LoginRepository
 import com.example.testcoffe.domain.repository.RegistrationRepository
@@ -23,5 +25,8 @@ val repositoryModule = module {
     }
     single<LocationRepository> {
         LocationRepositoryImpl(get())
+    }
+    single<LocationIdRepository> {
+        LocationIdRepositoryImpl(get())
     }
 }

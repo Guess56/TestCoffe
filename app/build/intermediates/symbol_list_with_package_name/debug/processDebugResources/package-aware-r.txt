@@ -717,6 +717,9 @@ drawable ic_call_decline_low
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_marker
+drawable icon_add
+drawable icon_back
+drawable icon_remove
 drawable interior
 drawable loader
 drawable mrc_arrow
@@ -822,6 +825,7 @@ id center_vertical
 id checkbox
 id checked
 id chronometer
+id coil_request_manager
 id collapseActionView
 id compose_view_saveable_id_tag
 id consume_window_insets_tag

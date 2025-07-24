@@ -15,6 +15,9 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_marker
+drawable icon_add
+drawable icon_back
+drawable icon_remove
 font sfuidisplay_bold
 font sfuidisplay_heavy
 mipmap ic_launcher

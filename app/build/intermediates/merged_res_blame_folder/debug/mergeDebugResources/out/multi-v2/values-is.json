@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.testcoffe.app-mergeDebugResources-66:/values-is/values-is.xml",
+            "outputFile": "com.example.testcoffe.app-mergeDebugResources-67:/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/Users/teplov56/.gradle/caches/8.11.1/transforms/8db034c9c477f6128e9597a0bd2dfa80/transformed/play-services-base-18.1.0/res/values-is/values.xml",
