@@ -198,7 +198,8 @@ class MainActivity : ComponentActivity() {
                         onMarkerClick = { cafe ->
                             navController.navigate("cafeDetail/${cafe.id}")
                         },
-                        onMapReady = { mapView = it }
+                        onMapReady = { mapView = it },
+                        navController = navController
                     )
                 }
                 composable(
@@ -487,7 +488,6 @@ fun CafeScreen(
 
     val locationState by locationViewModel.state.collectAsState()
 
-
     val cafeItems = when (locationState) {
         is LocationState.Content -> (locationState as LocationState.Content).data
         else -> emptyList<CafeItems>()
@@ -514,12 +514,41 @@ fun CafeScreen(
                     .padding(vertical = 55.dp),
                 contentAlignment = Alignment.TopCenter
             ) {
-                Text(
-                    color = colorResource(id = R.color.title),
-                    fontSize = 18.sp,
-                    fontFamily = sfUiDisplayBold,
-                    text = "Ближайшие кофейни"
-                )
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.Center
+                ) {
+                    IconButton(
+                        onClick = { navController.navigate("login") {
+                            popUpTo("login") { inclusive = true }
+                            launchSingleTop = true
+                        } },
+                        modifier = Modifier
+                            .padding(start = 20.dp)
+                            .size(36.dp)
+                    ) {
+                        Icon(
+                            painter = painterResource(id = R.drawable.icon_back),
+                            contentDescription = "Назад",
+                            tint = colorResource(id = R.color.title)
+                        )
+                    }
+
+                    Spacer(modifier = Modifier.weight(1f))
+
+                    Text(
+                        text = "Ближайшие кофейни",
+                        color = colorResource(id = R.color.title),
+                        fontSize = 18.sp,
+                        fontFamily = sfUiDisplayBold,
+                        modifier = Modifier.align(Alignment.CenterVertically)
+                    )
+
+                    Spacer(modifier = Modifier.weight(1f))
+
+                    Box(modifier = Modifier.size(36.dp)) // Пустой элемент для выравнивания
+                }
             }
 
             Spacer(modifier = Modifier.height(15.dp))
@@ -711,52 +740,97 @@ fun SimpleLocationButton(
 fun YandexMapScreen(
     cafeItems: List<CafeItems>,
     onMarkerClick: (CafeItems) -> Unit,
-    onMapReady: (MapView) -> Unit
+    onMapReady: (MapView) -> Unit,
+    navController: NavHostController
 ) {
-    Log.e("items", "$cafeItems")
     val context = LocalContext.current
 
-    val mapView = remember {
-        MapView(context).apply {
-            layoutParams = ViewGroup.LayoutParams(MATCH_PARENT, MATCH_PARENT)
-            map.move(
-                CameraPosition(
-                    YandexPoint(cafeItems.first().latitude, cafeItems.first().longitude),
-                    12f,
-                    0f,
-                    0f
+    Box(modifier = Modifier.fillMaxSize()) {
+        Box(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(vertical = 55.dp),
+            contentAlignment = Alignment.TopCenter
+        ) {
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.Center
+            ) {
+                IconButton(
+                    onClick = { navController.popBackStack() },
+                    modifier = Modifier
+                        .padding(start = 20.dp)
+                        .size(36.dp)
+                ) {
+                    Icon(
+                        painter = painterResource(id = R.drawable.icon_back),
+                        contentDescription = "Назад",
+                        tint = colorResource(id = R.color.title)
+                    )
+                }
+
+                Spacer(modifier = Modifier.weight(1f))
+
+                Text(
+                    text = "Карта",
+                    color = colorResource(id = R.color.title),
+                    fontSize = 18.sp,
+                    fontWeight = FontWeight.Bold,
+                    modifier = Modifier.align(Alignment.CenterVertically)
                 )
-            )
+
+                Spacer(modifier = Modifier.weight(1f))
+
+                Box(modifier = Modifier.size(36.dp))
+            }
         }
-    }
-
-    LaunchedEffect(Unit) {
-        onMapReady(mapView)
-    }
-
-    DisposableEffect(key1 = cafeItems) {
-        val mapObjects = mapView.map.mapObjects
-        mapObjects.clear()
-
-        cafeItems.forEach { cafe ->
-            mapObjects.addPlacemark { placemark ->
-                placemark.geometry = YandexPoint(cafe.latitude, cafe.longitude)
-                placemark.setIcon(
-                    ImageProvider.fromResource(context, R.drawable.ic_marker)
-                )
-                placemark.addTapListener { _, _ ->
-                    onMarkerClick(cafe)
-                    true
+        val mapView = remember {
+            MapView(context).apply {
+                layoutParams = ViewGroup.LayoutParams(MATCH_PARENT, MATCH_PARENT)
+                if (cafeItems.isNotEmpty()) {
+                    map.move(
+                        CameraPosition(
+                            YandexPoint(cafeItems.first().latitude, cafeItems.first().longitude),
+                            12f,
+                            0f,
+                            0f
+                        )
+                    )
                 }
             }
         }
-        onDispose { }
-    }
 
-    AndroidView(
-        factory = { mapView },
-        modifier = Modifier.fillMaxSize()
-    )
+        LaunchedEffect(Unit) {
+            onMapReady(mapView)
+        }
+
+        DisposableEffect(key1 = cafeItems) {
+            val mapObjects = mapView.map.mapObjects
+            mapObjects.clear()
+
+            cafeItems.forEach { cafe ->
+                mapObjects.addPlacemark { placemark ->
+                    placemark.geometry = YandexPoint(cafe.latitude, cafe.longitude)
+                    placemark.setIcon(
+                        ImageProvider.fromResource(context, R.drawable.ic_marker)
+                    )
+                    placemark.addTapListener { _, _ ->
+                        onMarkerClick(cafe)
+                        true
+                    }
+                }
+            }
+            onDispose { }
+        }
+
+        AndroidView(
+            factory = { mapView },
+            modifier = Modifier.fillMaxSize()
+                // Отступ сверху чтобы не перекрывать кнопку назад
+                .padding(top = 110.dp)
+        )
+    }
 }
 
 @Composable
@@ -779,6 +853,7 @@ fun CafeDetailScreen(
     Log.e("menu", "$menu")
 
     val quantities by locationIdViewModel.quantities.collectAsState()
+
     Box(
         modifier = Modifier
             .fillMaxSize()
@@ -787,18 +862,45 @@ fun CafeDetailScreen(
         Column(
             modifier = Modifier.fillMaxSize()
         ) {
+            // Верхний блок с кнопкой назад и заголовком "Меню"
             Box(
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(vertical = 55.dp),
                 contentAlignment = Alignment.TopCenter
             ) {
-                Text(
-                    color = colorResource(id = R.color.title),
-                    fontSize = 18.sp,
-                    fontFamily = FontFamily(Font(R.font.sfuidisplay_bold, FontWeight.Bold)),
-                    text = "Меню"
-                )
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.Center
+                ) {
+                    IconButton(
+                        onClick = { navController.popBackStack() },
+                        modifier = Modifier
+                            .padding(start = 20.dp)
+                            .size(36.dp)
+                    ) {
+                        Icon(
+                            painter = painterResource(id = R.drawable.icon_back),
+                            contentDescription = "Назад",
+                            tint = colorResource(id = R.color.title)
+                        )
+                    }
+
+                    Spacer(modifier = Modifier.weight(1f))
+
+                    Text(
+                        text = "Меню",
+                        color = colorResource(id = R.color.title),
+                        fontSize = 18.sp,
+                        fontFamily = FontFamily(Font(R.font.sfuidisplay_bold, FontWeight.Bold)),
+                        modifier = Modifier.align(Alignment.CenterVertically)
+                    )
+
+                    Spacer(modifier = Modifier.weight(1f))
+
+                    Box(modifier = Modifier.size(36.dp)) // Пустой элемент слева для выравнивания
+                }
             }
 
             Spacer(modifier = Modifier.height(15.dp))
@@ -812,8 +914,8 @@ fun CafeDetailScreen(
                 }
             )
         }
-        val isAnySelected = quantities.values.any { it > 0 }
 
+        val isAnySelected = quantities.values.any { it > 0 }
 
         SimpleLocationButton(
             onClick = {
