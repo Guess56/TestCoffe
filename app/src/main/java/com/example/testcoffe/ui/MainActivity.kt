@@ -260,7 +260,9 @@ fun RegisterScreen(
             val context = LocalContext.current
             val message = (registrationState as RegistrationState.Error).message
             Toast.makeText(context, message, Toast.LENGTH_LONG).show()
-            onNavigateToLogin()
+           if (message.equals("Пользователь с таким именем уже существует")) {
+               onNavigateToLogin()
+           }
         }
 
         is RegistrationState.Empty -> {

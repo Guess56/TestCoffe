@@ -1,4 +1,4 @@
-#Thu Jul 24 15:27:27 YEKT 2025
+#Thu Jul 24 15:33:13 YEKT 2025
 base.0=/Users/teplov56/AndroidStudioProjects/TestCoffe/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/teplov56/AndroidStudioProjects/TestCoffe/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.10=/Users/teplov56/AndroidStudioProjects/TestCoffe/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
